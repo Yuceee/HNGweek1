@@ -1,0 +1,93 @@
+body{
+    height: 1158px;
+    width: 1440px;
+    left: -1148px;
+    top: 253px;
+    border-radius: 0px;
+    background: #FFFFFF;
+}
+.profile_picture{
+    height: 88px;
+    width: 88px;
+    left: 532px;
+    top: 0px;
+    border-radius: 275px;
+}
+.profile_name{
+    height: 30px;
+    width: 1152px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+    font-weight: bold;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #101828;
+}
+a:link{
+    text-decoration: none;
+    color: #101828;
+}
+.profile_links{
+    height: 76px;
+    width: 1152px;
+    left: 0px; 
+    top: 0px;
+    border-radius: 8px;
+    padding: 24px 32px 24px 32px;
+    margin: 8px;
+    background: #EAECF0;
+    border: 1px solid #EAECF0; 
+    font-family: Inter;
+    font-size: 18px; 
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+/* .links{
+    height: 28px;
+    width: 101px;
+    left: 525.5px;
+    top: 24px;
+   }
+.btn_zuri{
+        height: 28px;
+    width: 86px;
+    left: 533px;
+    top: 24px;
+    border-radius: nullpx;
+}
+.books{
+    height: 28px;
+    width: 92px;
+    left: 530px;
+    top: 24px;
+    border-radius: nullpx;
+}
+.book_python{
+    height: 28px;
+    width: 119px;
+    left: 516.5px;
+    top: 24px;
+    border-radius: nullpx;
+} 
+.pitch{
+    height: 28px;
+    width: 259px;
+    left: 446.5px;
+    top: 24px;
+    border-radius: nullpx;
+}
+.book_design{
+    height: 28px;
+    width: 118px;
+    left: 517px;
+    top: 24px;
+    border-radius: nullpx;
+}
+*/
